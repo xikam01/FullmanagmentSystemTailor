@@ -1,0 +1,19 @@
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\bin\Debug\Dashboard Managment system.exe.config
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\bin\Debug\Dashboard Managment system.exe
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\bin\Debug\Dashboard Managment system.pdb
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\bin\Debug\Guna.UI.dll
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\bin\Debug\Guna.UI2.dll
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.customer.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.Dashboard.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.Employee.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.Orders.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.Payment.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.Properties.Resources.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.purchase.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.salary.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.Store.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard Managment system.csproj.GenerateResource.Cache
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard Managment system.exe
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard Managment system.pdb
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard_Managment_system.Goods.resources
+C:\Users\Abdirahman\Desktop\Dev\Programming\Dashboard Managment system\Dashboard Managment system\obj\Debug\Dashboard Managment system.csprojResolveAssemblyReference.cache
